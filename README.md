@@ -1,5 +1,5 @@
 **Ruchita Sagalgile**  
-<u>Full Stack Enthusiast, Programming in Java and Learning JavaScript.</u>
+<u>Full Stack Enthusiast, Programming in Java.</u>
 
 
 
