@@ -13,5 +13,6 @@
 | Day 4         |        Sep21,2020         | Responsive Web Design                                        | [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics). |
 | Day 5         |        Sep26,2020         | Function in JavaScript, Date object and some pattern problems | [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics). |
 | Day 6         |        Sep28,2020         | Installation in vs code for react and create all dependencies for react | [ReactJs](https://reactjs.org/).                             |                                                        |                                                              |
+| Day 7         |        Oct1,2020         | English vocabulary: Learn more than 200 words for beginners | [Udemy](https://www.udemy.com/course/english-vocabulary-learn-more-than-200-words-for-beginners/).|                                                      
 
 
