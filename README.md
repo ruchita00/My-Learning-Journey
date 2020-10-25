@@ -17,5 +17,5 @@
 | Day 8         |        Oct5, 2020         |  Complete Modern JavaScript Firebase BootCamp the beginner.   | [Udemy](https://www.udemy.com/course/complete-modern-javascript-with-firebase-bootcamp-for-beginners/) |
 | Day 9         |        Oct10, 2020         | Java Basics Practice               |[SoloLearn](https://www.sololearn.com/Profile/16378258/Java) 
 |  Day 10        |        Oct17, 2020        |   Start Learning : React - The Complete Guide with React Hook Redux 2020 in 4hr | [Udemy](https://www.udemy.com/course/complete-react-course-w-hooks-react-router-redux-usecontext/)
-   
-   
+|   Day 11       |       Oct22, 2020         | The Complete Java Practice Test (+ LinkedIn Assessment)  | [Udemy](https://www.udemy.com/course/the-complete-java-practice-test-linkedin-assessment/)
+|  Day 12        |     Oct25, 2020          | English vocabulary: Learn more than 200 words for beginners | [Udemy](https://www.udemy.com/course/english-vocabulary-learn-more-than-200-words-for-beginners/)
